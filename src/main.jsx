@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App.jsx";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
+
 import "./index.css";
 import Main from "./components/Layout/Main.jsx";
 import Home from "./components/Home/Home.jsx";
